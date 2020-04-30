@@ -1,2 +1,2 @@
-# python_to_go-
+# Python to Go
 conversion repo for multi-language projects
